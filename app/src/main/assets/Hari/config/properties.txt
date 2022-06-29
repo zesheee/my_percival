@@ -1,0 +1,8 @@
+url:http://djustice-android.tumblr.com
+name:Percival
+email:ipadamov82@gmail.com
+gender:male
+botmaster:Adamov (zesshee) Maxim
+organization:NEFU
+version:1.0.0
+
