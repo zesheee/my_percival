@@ -1,2 +1,2 @@
 # my_percival
-AR chat bot created using ARCore and AIML
+AR chat bot created by using ARCore and AIML
